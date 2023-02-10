@@ -10,7 +10,7 @@ const App = () => {
         <button
           className="p-6 outline-none rounded-xl shadow-lg bg-transparent border-8 border-indigo-500 text-white font-sans text-base lg:text-xl tracking-wider uppercase font-bold transition-all duration-500 hover:bg-indigo-800"
         > <a href="https://blog-api-kqjx.onrender.com/" className="flex items-center justify-center gap-3" target='_blank'>
-            <i className="fa-solid fa-arrow-up-right-from-square text-2xl"></i> <span>Link to Deployed Link</span>
+            <i className="fa-solid fa-arrow-up-right-from-square text-2xl"></i> <span>Link to Deployed URL</span>
           </a>
         </button>
 
