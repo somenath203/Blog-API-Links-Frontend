@@ -16,7 +16,7 @@ const App = () => {
 
         <button className="p-6 outline-none rounded-xl shadow-lg bg-transparent border-8 border-black text-white font-sans text-base lg:text-xl tracking-wider uppercase font-bold transition-all duration-500 hover:bg-slate-800">
           <a href="https://github.com/somenath203/Blog-Backend-API#readme" className="flex items-center justify-center gap-3" target='_blank'>
-            <i className="fa-brands fa-github-alt text-2xl"></i> <span>Link to Github README</span>
+            <i className="fa-brands fa-github-alt text-3xl"></i> <span>Link to Github README</span>
           </a>
         </button>
 
